@@ -1,10 +1,4 @@
 #!/usr/bin/env python3
-"""
-TheOctoGon Framework — TUI launcher
-Launches python/bash scripts organized by category.
-Run:  python3 octogon_launcher.py [scripts_dir]
-"""
-
 import os
 import subprocess
 import sys
