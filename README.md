@@ -1,4 +1,7 @@
 # OctoGon
+
+By The Way 50-60% of the shitz was vibecoded
+
 MultiToolistic Framework In Python &amp; shellscript
 ```
  ╱╱╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍TheOctoGon Framework╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╲╲
