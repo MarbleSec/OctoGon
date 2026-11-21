@@ -79,7 +79,7 @@ MENU = {
     "recon": [
         ("17", "wpscan", "src/Tools/wpscan.sh"),
         ("18", "dns", "src/Tools/dns.py"),
-        ("29", "port", "src/Tools/OctoWebPortScan.py"),
+        ("19", "port", "src/Tools/OctoWebPortScan.py"),
         ("20", "subdomain", "src/Tools/sub.py"),
         ("21", "dorker", "src/Tools/dorker.py"),
     ],
