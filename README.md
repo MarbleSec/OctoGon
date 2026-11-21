@@ -11,3 +11,7 @@ MultiToolistic Framework In Python &amp; shellscript
  ┃╾──────────☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷──────────╼┃
  ╲╲╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍TheOctoGon Framework╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╱╱
  ```
+
+
+https://github.com/Nul1Ro0ts
+He Helped With The Project W Manz
